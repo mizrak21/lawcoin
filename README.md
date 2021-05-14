@@ -1,0 +1,2 @@
+# lawcoin
+A Fair Currency
